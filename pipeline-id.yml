@@ -1,0 +1,7 @@
+resources:
+  - resourceType: trigger-pipeline
+    pipelineID: '1284' 
+    organization: nashtechglobal
+  - resourceType: aks
+    pipelineID: '1235' 
+    organization: nashtech   
